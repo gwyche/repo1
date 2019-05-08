@@ -18,7 +18,7 @@ iframe{position: relative !important; bottom: 20px !important; margin-top: 25px 
 
 @media only screen and (max-width: 480px) { 
     p{
-        color:black; font-size: smaller; font-family: Verdana, Geneva, Tahoma, sans-serif; width: 320px;
+        color:#111; font-size: smaller; font-family: Verdana, Geneva, Tahoma, sans-serif; width: 320px;
     }
     h4{font-size: medium;}
 
